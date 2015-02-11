@@ -1,6 +1,6 @@
 #!/bin/bash
  
-now_playing_dir=/etc/now_playing
+now_playing_dir=/etc/shairport/now_playing
 datafile=$now_playing_dir.json
  
 stringify() {
